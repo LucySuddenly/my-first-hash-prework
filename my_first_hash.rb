@@ -1,7 +1,6 @@
 def my_hash
     your_hash = Hash.new
-    your_hash["This"] = 9
-  
+    your_hash["This"] = "That"
 end
 
 
